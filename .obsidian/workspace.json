@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d84aed30f7c5edf6",
+        "id": "37b6d5d591aaf698",
         "type": "tabs",
         "children": [
           {
-            "id": "2910908b762926e2",
+            "id": "9e11d4527a38c978",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 359.501522064209
   },
   "right": {
     "id": "f20e4c0c1e14684c",
@@ -195,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,8 +216,34 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "2910908b762926e2",
+  "active": "9e11d4527a38c978",
   "lastOpenFiles": [
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/如何从Gitee克隆一个私人仓库到本地？.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/SourceTree 基本操作.canvas",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/image/Pasted image 20250920184655.png",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/image/14191727_670cfdc738bc184085.webp",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/image/14191727_670cfdc76568720494.webp",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/SourceTree克隆远程仓库到本地(gitee).md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/0.如何使用gitee对仓库进行同步.canvas",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/用做题的方式迅速学习任何知识.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/SSH密钥生成和Gitee公钥配置全流程（Github通用）.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/image/Pasted image 20250920163014.png",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/Https方式克隆.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/Git基本操作.canvas",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/GitBash是什么？.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/GitBash是什么？.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/怎么通过GitBash创建SSH秘钥？.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/SSH方式克隆私人仓库.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/SSH是什么.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/image/Pasted image 20250920155520.png",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/image/Pasted image 20250920154730.png",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/image/Pasted image 20250920153350.png",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/image/Pasted image 20250920153342.png",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/image",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/Git基本操作.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/Obsidian Git插件.canvas",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/未命名.base",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步",
     "知识管理体系/核心知识（需经常复习，长期记忆）/项目/去噪效率优化/KD树优化DBSCAN论文初稿.md",
     "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/README.md",
     "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/CONTRIBUTING.md",
@@ -243,33 +270,8 @@
     "知识管理体系/工具性知识（允许遗忘，用中学）/系统工具类",
     "知识管理体系/工具性知识（允许遗忘，用中学）/系统工具",
     "知识管理体系/工具性知识（允许遗忘，用中学）/文档工具",
-    "知识管理体系/工具性知识（允许遗忘，用中学）/开发工具",
-    "知识管理体系/工具性知识（允许遗忘，用中学）/文档工具类",
-    "知识管理体系/工具性知识（允许遗忘，用中学）/工具性知识索引.md",
-    "知识管理体系/工具性知识（允许遗忘，用中学）/开发工具类",
-    "知识管理体系/工具性知识（允许遗忘，用中学）/工具性知识整理方案.md",
-    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/src/playground/README.md",
     "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/src/data-structures/trie/images/trie.jpg",
-    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/src/data-structures/trie/README.zh-CN.md",
-    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/src/data-structures/trie/README.uk-UA.md",
-    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/src/data-structures/trie/README.ru-RU.md",
-    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/src/data-structures/trie/README.pt-BR.md",
-    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/src/data-structures/trie/README.md",
-    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/src/data-structures/trie/README.ko-KO.md",
-    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/src/data-structures/stack/images/stack.jpg",
-    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/src/data-structures/stack/images/stack.jpeg",
-    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/src/data-structures/stack/README.zh-CN.md",
-    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/src/data-structures/stack/README.vi-VN.md",
-    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/src/data-structures/stack/README.uk-UA.md",
-    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/src/data-structures/tree/binary-search-tree/images/binary-search-tree.jpg",
-    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/src/data-structures/tree/images/tree.jpeg",
-    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/src/algorithms/statistics/weighted-random/images/cover.png",
-    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/src/algorithms/sorting/radix-sort/images/radix-sort.png",
-    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/src/algorithms/sorting/bucket-sort/images/bucket_sort_2.png",
-    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/src/algorithms/sorting/bucket-sort/images/bucket_sort_1.png",
     "知识管理体系/核心知识（需经常复习，长期记忆）/精力管理/时间框架.canvas",
-    "知识管理体系/核心知识（需经常复习，长期记忆）/个人/外在/大腿肌肉结构.canvas",
-    "知识管理体系/核心知识（需经常复习，长期记忆）/个人/外在/训练.canvas",
-    "空地一体化生态固碳系统研发及应用/未命名.canvas"
+    "知识管理体系/核心知识（需经常复习，长期记忆）/个人/外在/大腿肌肉结构.canvas"
   ]
 }
