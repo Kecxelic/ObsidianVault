@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"999b4a3bc9ce8bcb","type":"text","text":"2、Obsidian Git插件\n\n让你在Obsidian内部使用Git，无需频繁使用命令行或离开Obsidian。","x":-455,"y":-460,"width":250,"height":134},
+		{"id":"2c17cce2f23fd277","type":"text","text":"Gitee远程托管","x":-274,"y":-60,"width":250,"height":60},
+		{"id":"0b37f2d942ee8231","type":"text","text":"Git管理本地仓库","x":-693,"y":-26,"width":233,"height":26},
+		{"id":"98cc06b203f5450c","type":"text","text":"Git基本操作","x":-862,"y":146,"width":169,"height":54},
+		{"id":"cab85d1d76efe4cd","type":"text","text":"如何使用gitee对Obsidian仓库进行同步\n\n自顶向下列行动步骤。自底向上具体行动。规划好再行动。","x":-460,"y":-700,"width":260,"height":134},
+		{"id":"76110e215ad9cb0a","type":"text","text":"1、SourceTree简化操作","x":-447,"y":-260,"width":235,"height":50},
+		{"id":"4b84b63f20480c8d","type":"file","file":"知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/Obsidian Git插件.canvas","x":1240,"y":-3253,"width":3680,"height":2553},
+		{"id":"7ca341e7a662c317","x":640,"y":-526,"width":400,"height":400,"type":"file","file":"知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/SourceTree 基本操作.canvas"}
+	],
+	"edges":[
+		{"id":"b851121d7bbd712c","fromNode":"76110e215ad9cb0a","fromSide":"bottom","toNode":"0b37f2d942ee8231","toSide":"top"},
+		{"id":"87c897d15ce71806","fromNode":"76110e215ad9cb0a","fromSide":"bottom","toNode":"2c17cce2f23fd277","toSide":"top"},
+		{"id":"39bde3638bfa23b5","fromNode":"cab85d1d76efe4cd","fromSide":"bottom","toNode":"999b4a3bc9ce8bcb","toSide":"top"},
+		{"id":"2385ab463f2b1fc3","fromNode":"999b4a3bc9ce8bcb","fromSide":"bottom","toNode":"76110e215ad9cb0a","toSide":"top"},
+		{"id":"6a64f811e025b8df","fromNode":"999b4a3bc9ce8bcb","fromSide":"right","toNode":"4b84b63f20480c8d","toSide":"left"},
+		{"id":"6205f8b77751c259","fromNode":"0b37f2d942ee8231","fromSide":"bottom","toNode":"98cc06b203f5450c","toSide":"top"},
+		{"id":"3314384761ccf967","fromNode":"76110e215ad9cb0a","fromSide":"right","toNode":"7ca341e7a662c317","toSide":"left"}
+	]
+}

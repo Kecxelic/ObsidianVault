@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"503277e2618e4b90","type":"file","file":"知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/用做题的方式迅速学习任何知识.md","x":634,"y":-944,"width":592,"height":386},
+		{"id":"0917b0e3d35d0e7b","type":"text","text":"## Terminology and concepts 术语和概念","x":150,"y":577,"width":250,"height":109},
+		{"id":"282af8b4c70db8d9","type":"text","text":"### Sync 同步 \n\nSyncing is the process of pulling and pushing changes to and from a remote repository. This is done to keep your local repository up to date with the remote repository on e.g. GitHub.同步是从远程仓库拉取更改并向其推送更改的过程。这样做是为了使你的本地仓库与例如GitHub上的远程仓库保持同步。","x":610,"y":726,"width":500,"height":224},
+		{"id":"064be44c8b8ef4e1","type":"text","text":"### Commit-and-sync 提交并同步 \n\nCommit-and-sync is the process of staging everything -> committing -> pulling -> pushing. Ideally this is a single action that you do regularly to keep your local and remote repository in sync. It's recommended you set it up from the plugin's settings to be run automatically every X minutes. You can also disable the pulling or pushing part from the \"Commit-and-sync\" section in the plugin's settings. This reduces the \"commit-and-sync\" action to either a \"commit and pull\", \"commit and push\" or just commit action.\n\n提交并同步是一个包含暂存所有内容→提交→拉取→推送的过程。理想情况下，这是一个你可以定期执行的单一操作，用于保持本地仓库和远程仓库的同步。建议你在插件设置中进行配置，使其每X分钟自动运行一次。你也可以在插件设置的“提交并同步”部分禁用拉取或推送环节。这样可以将“提交并同步”操作简化为“提交并拉取”“提交并推送”或仅为提交操作。","x":610,"y":1004,"width":640,"height":385},
+		{"id":"612980eb4d155612","type":"text","text":"# 目标解决的问题","x":607,"y":360,"width":250,"height":60},
+		{"id":"9fa5452924ca1ddd","type":"text","text":"# Git plugin Documentation Git 插件文档\n\nObsidian-Git是Obsidian的一款插件，它能让你在Obsidian内部使用Git，无需频繁使用命令行或离开Obsidian。","x":-446,"y":0,"width":440,"height":190},
+		{"id":"bc6d7de84a10518f","type":"text","text":"# 接近真实使用场景的题目","x":194,"y":-45,"width":374,"height":80},
+		{"id":"acbf861ebee33fff","type":"text","text":"# Obsidian-Git 同步知识点：实际问题解决类题目及答案\n以下题目均模拟 **Obsidian-Git 插件的真实使用场景**，重点考查“根据具体需求选择正确操作（Sync/Commit-and-sync）”“预判操作结果”“解决实际冲突”的能力，每题对应一个高频问题。\n","x":634,"y":-151,"width":745,"height":142},
+		{"id":"78591ace1c10bfdd","type":"text","text":"## 题目1：本地有未提交修改，需备份+同步远程\n### 场景描述\n你在 Obsidian 里修改了5篇笔记（新增了会议记录、修改了待办清单），这些修改还没做“暂存”和“提交”。现在你需要：① 把这些修改安全保存到本地仓库（避免丢失）；② 同时将这些修改同步到 GitHub 远程仓库（方便另一台电脑后续查看）。  \n### 问题\n1. 此时应选择「Sync（同步）」还是「Commit-and-sync（提交并同步）」？为什么？  \n2. 选择该操作后，插件会自动执行哪几个核心步骤（按顺序）？\n","x":1519,"y":-298,"width":721,"height":338},
+		{"id":"9812a6e8550eb66f","type":"text","text":"\n\n\n## 题目2：仅需同步远程最新内容，本地无修改\n### 场景描述\n你昨天在公司电脑上修改了 Obsidian 笔记，并已通过 Commit-and-sync 同步到 GitHub。今天打开家里电脑的 Obsidian，本地仓库没有任何新修改（没新增、没修改笔记），现在只想把公司电脑同步到 GitHub 的最新笔记拉到家里电脑上。  \n### 问题\n1. 此时选「Sync」还是「Commit-and-sync」更高效？为什么？  \n2. 如果误选了另一个操作，会出现什么问题（或多余步骤）？\n\n\n## 题目3：需保存本地修改，但暂不推送到远程\n### 场景描述\n你在 Obsidian 里写了一半的项目方案（未完成，不想现在推到远程让同事看到），但担心电脑死机丢失内容，所以想先把这部分修改保存到本地仓库；同时，你还想拉取同事刚同步到 GitHub 的其他笔记（和你的项目方案无关）。  \n### 场景补充\nObsidian-Git 插件支持对「Commit-and-sync」的步骤进行配置。  \n### 问题\n1. 此时应选择哪种操作？需要对该操作做什么额外配置？  \n2. 配置后，操作会执行哪些步骤？最终能实现你的两个需求吗（保存本地+拉取同事内容）？\n\n\n\n\n\n### 题目2 答案\n1. **应选「Sync（同步）」更高效**。  \n   理由：你的本地无任何修改，核心需求仅为“拉取远程最新内容”。「Sync」直接执行“Pull+Push”——其中 Push 环节因本地无新提交，实际不会推送任何内容，仅需1步就能完成“拉取公司电脑的最新笔记”；而「Commit-and-sync」会额外执行“暂存所有内容（本地无修改，暂存为空）→ 提交（无内容可提交，仅生成空提交记录）”，这两个步骤完全多余，浪费时间。  \n\n2. **误选「Commit-and-sync」的问题**：  \n   会生成一条“空提交记录”（本地无修改，暂存区为空，提交内容无实质变化），导致后续查看仓库历史时，这条空记录会干扰对“有效修改”的识别，增加历史管理成本。\n\n\n### 题目3 答案\n1. **应选择「Commit-and-sync（提交并同步）」**，需额外配置：在 Obsidian-Git 插件的「Commit-and-sync」设置中，**禁用“Push（推送）”环节**。  \n\n2. **配置后执行的步骤**：  \n   暂存“未完成的项目方案” → 将方案提交到本地仓库（保存到本地，避免丢失） → 从 GitHub 拉取同事同步的其他笔记 → 因禁用 Push，不执行“推送本地提交”步骤。  \n\n   **最终能实现两个需求**：① 本地未完成的方案已保存到本地仓库（防丢失）；② 同事的最新笔记已通过 Pull 拉取到本地，完全匹配你的需求。","x":3940,"y":-1640,"width":1343,"height":4605},
+		{"id":"0fa003013b79ebcb","type":"text","text":"# 答题时是否能够看答案？\n一定是能看答案，狠狠地看。只要是不知道，或者是有点模糊，就狠狠地看答案。能否看答案根本不重要，重要的是，看完答案之后，你要问问自己，是否理解了，下一次碰上同样的问题，你能做出来吗？如果你看完答案之后，理解了，觉得自己下次碰上了能做出来，那就过。否则就用AI去搜更多答案，直接了解的非常详细。","x":2300,"y":-700,"width":500,"height":238},
+		{"id":"f5368f736b1f0441","type":"text","text":"# 第一次回答\n## 问题1\n应该选择提交并同步。同步只有pull和push，没有stage暂存和commit提交。","x":2380,"y":-360,"width":260,"height":231},
+		{"id":"2bc5249aba53a600","type":"text","text":"stage\n舞台、时期、阶段\n\n暂存区的英文就是staging area","x":2740,"y":-460,"width":275,"height":100},
+		{"id":"de74fb1ba518131c","type":"text","text":"若本地有**未提交(staging+commit)** 的变更，Git会拒绝执行“Pull/Push“\n比如你本地修改了一个文件，你提交了一部分。\n这个时候是否能提交？\n\n","x":2740,"y":-340,"width":290,"height":84},
+		{"id":"63b4955c2198c81e","type":"text","text":"## 参考答案\n### 题目1 答案\n1. **应选「Commit-and-sync（提交并同步）」**。  \n   理由：你的核心需求是“保存本地未提交修改+同步远程”，而「Sync」仅能执行“Pull+Push”，无法处理“未暂存、未提交的修改”——若直接用 Sync，Git 会因“本地有未提交变更”拒绝执行 Pull/Push，导致同步失败；而「Commit-and-sync」会自动先处理本地修改（暂存+提交），再执行同步，正好匹配需求。  \n\n2. **插件自动执行的核心步骤**（按顺序）：  \n   暂存所有修改的5篇笔记 → 将暂存内容提交到本地仓库 → 从 GitHub 拉取远程最新内容（若有） → 将本地提交的“会议记录+待办清单”推送到 GitHub 远程仓库。","x":2380,"y":-20,"width":840,"height":348}
+	],
+	"edges":[
+		{"id":"ce2c8412b0d5b31c","fromNode":"0917b0e3d35d0e7b","fromSide":"right","toNode":"282af8b4c70db8d9","toSide":"left"},
+		{"id":"153b6084d2ba600c","fromNode":"0917b0e3d35d0e7b","fromSide":"right","toNode":"064be44c8b8ef4e1","toSide":"left"},
+		{"id":"f8321905ae9ff44e","fromNode":"0917b0e3d35d0e7b","fromSide":"right","toNode":"612980eb4d155612","toSide":"left"},
+		{"id":"372e31ef72a796ed","fromNode":"9fa5452924ca1ddd","fromSide":"right","toNode":"0917b0e3d35d0e7b","toSide":"left"},
+		{"id":"6eaff904ea5e0b7a","fromNode":"9fa5452924ca1ddd","fromSide":"right","toNode":"bc6d7de84a10518f","toSide":"left"},
+		{"id":"5958789181aff88a","fromNode":"bc6d7de84a10518f","fromSide":"right","toNode":"acbf861ebee33fff","toSide":"left"},
+		{"id":"41ebc336b9ac778b","fromNode":"acbf861ebee33fff","fromSide":"right","toNode":"78591ace1c10bfdd","toSide":"left"},
+		{"id":"1f886887ad34c747","fromNode":"78591ace1c10bfdd","fromSide":"right","toNode":"f5368f736b1f0441","toSide":"left"},
+		{"id":"78c689385515565c","fromNode":"78591ace1c10bfdd","fromSide":"right","toNode":"63b4955c2198c81e","toSide":"left"},
+		{"id":"96ff2a35da9e42d7","fromNode":"f5368f736b1f0441","fromSide":"right","toNode":"2bc5249aba53a600","toSide":"left"},
+		{"id":"6326869e920da250","fromNode":"f5368f736b1f0441","fromSide":"right","toNode":"de74fb1ba518131c","toSide":"left"}
+	]
+}

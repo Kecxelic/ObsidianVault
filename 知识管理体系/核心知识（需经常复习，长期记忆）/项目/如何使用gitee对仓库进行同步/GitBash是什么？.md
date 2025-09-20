@@ -1,0 +1,3 @@
+GitBash是Windows下的类Unix终端。
+
+Windows自带的cmd运行git不好用，因此下载git for Windows的时候，默认GitBash会作为组件默认安装
