@@ -1,0 +1,323 @@
+{
+  "main": {
+    "id": "02f0c595f0e5b033",
+    "type": "split",
+    "children": [
+      {
+        "id": "37b6d5d591aaf698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e11d4527a38c978",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/0.如何使用gitee对仓库进行同步.canvas",
+                "viewState": {
+                  "x": 891.035637157475,
+                  "y": -411.01411653679355,
+                  "zoom": -1.3336854601445343
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "0.如何使用gitee对仓库进行同步"
+            }
+          },
+          {
+            "id": "8a220c613695eace",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/SourceTree 基本操作.canvas",
+                "viewState": {
+                  "x": -476.4847004201935,
+                  "y": -1581.8857877471526,
+                  "zoom": -0.30429032038780895
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "SourceTree 基本操作"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0eee5bbc3ae2ff96",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7ca7eaaa4cfdbb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36fe6b9eb2a74a62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9e6f7f5a541182be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2767723d3a6c03a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+<<<<<<< HEAD
+    "width": 359.501522064209,
+    "collapsed": true
+=======
+    "width": 359.501522064209
+>>>>>>> master
+  },
+  "right": {
+    "id": "f20e4c0c1e14684c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6047ee1500ee714",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35f11020665e2db6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "工作汇报内容梳理​.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "工作汇报内容梳理​ 的反向链接列表"
+            }
+          },
+          {
+            "id": "cb4f2294a70f9f4a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "483aecea3ce02d0e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/SourceTree 基本操作.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "SourceTree 基本操作 的大纲"
+            }
+          },
+          {
+            "id": "f803dda94f657cf9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "知识管理体系/核心知识（需经常复习，长期记忆）/项目/去噪效率优化/KD树优化DBSCAN论文初稿.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "KD树优化DBSCAN论文初稿 的出链列表"
+            }
+          },
+          {
+            "id": "3bcaf7634d1ed320",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "1f606b1cee5ef273",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "020710402a97139d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "12b772e825cc76cd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false,
+      "3d-graph:3D Graph": false
+    }
+  },
+<<<<<<< HEAD
+  "active": "8a220c613695eace",
+  "lastOpenFiles": [
+=======
+  "active": "9e11d4527a38c978",
+  "lastOpenFiles": [
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/如何从Gitee克隆一个私人仓库到本地？.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/SourceTree 基本操作.canvas",
+>>>>>>> master
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/image/Pasted image 20250920184655.png",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/image/14191727_670cfdc738bc184085.webp",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/image/14191727_670cfdc76568720494.webp",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/SourceTree克隆远程仓库到本地(gitee).md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/0.如何使用gitee对仓库进行同步.canvas",
+<<<<<<< HEAD
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/如何从Gitee克隆一个私人仓库到本地？.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/用做题的方式迅速学习任何知识.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/SourceTree 基本操作.canvas",
+=======
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/用做题的方式迅速学习任何知识.md",
+>>>>>>> master
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/SSH密钥生成和Gitee公钥配置全流程（Github通用）.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/image/Pasted image 20250920163014.png",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/Https方式克隆.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/Git基本操作.canvas",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/GitBash是什么？.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/GitBash是什么？.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/怎么通过GitBash创建SSH秘钥？.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/SSH方式克隆私人仓库.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/SSH是什么.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/image/Pasted image 20250920155520.png",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/image/Pasted image 20250920154730.png",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/image/Pasted image 20250920153350.png",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/image/Pasted image 20250920153342.png",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/image",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/Git基本操作.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/Obsidian Git插件.canvas",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/未命名.base",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/去噪效率优化/KD树优化DBSCAN论文初稿.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/README.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/CONTRIBUTING.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/CODE_OF_CONDUCT.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/算法主题树状图.md",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/工具类/Obsidian canvas使用技巧.canvas",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/工具类/GitHub访问问题解决方案.md",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/工具类/git操作.md",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/工具类/Git版本控制.canvas",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/工具类/drawio绘图.canvas",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/工具类/图表绘制心得.md",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/工具类/工具性知识整理方案.md",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/工具类/工具性知识索引.md",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/临时项目类/3）边云协同异常检测.canvas",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/临时项目类",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/工具类/用Obsidian，学习Obsidian/image/Pasted image 20250826000657.png",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/工具类/用Obsidian，学习Obsidian/image",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/工具类/用Obsidian，学习Obsidian/标签、书签.md",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/工具类/用Obsidian，学习Obsidian/卡片盒笔记法.md",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/工具类/用Obsidian，学习Obsidian/ReadMe.md",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/工具类/用Obsidian，学习Obsidian/Obsidian所有搜索的快捷键.md",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/工具类/用Obsidian，学习Obsidian",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/工具类",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/系统工具类",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/系统工具",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/文档工具",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/src/data-structures/trie/images/trie.jpg",
+<<<<<<< HEAD
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/src/data-structures/stack/images/stack.jpg",
+=======
+>>>>>>> master
+    "知识管理体系/核心知识（需经常复习，长期记忆）/精力管理/时间框架.canvas",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/个人/外在/大腿肌肉结构.canvas"
+  ]
+}
