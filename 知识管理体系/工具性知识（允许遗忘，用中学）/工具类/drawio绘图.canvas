@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{
+			"id":"411f42e850f98f89",
+			"type":"text",
+			"text":"# 如何绘制图表？\n\n拿到内容，可以让AI分析内在逻辑，输出为drawio软件可打开的后缀为drawio格式的，内在代码格式为xml的文件。\n\n提示词的撰写可以分为内容和样式。\n\n内容即要求反应创新性、可行性、价值和与原文的匹配度。\n\n样式即要求现代感。美观好看。有跟内容对应的好看的svg图标。\n\n提示词如下：\n",
+			"styleAttributes":{},
+			"x":-360,
+			"y":-180,
+			"width":395,
+			"height":401
+		},
+		{
+			"id":"6f52d0582f33ef09",
+			"type":"text",
+			"text":"# drawio软件图标重叠怎么方便编辑？\n通过软件的“图层”和“分组”来对元素进行分类。\n",
+			"styleAttributes":{},
+			"x":160,
+			"y":-180,
+			"width":380,
+			"height":201
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "a09115f180c00cdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "a861df533d1b9efe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adb360cb5fa61042",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识管理体系/工具性知识（允许遗忘，用中学）/用Obsidian，学习Obsidian/Obsidian所有搜索的快捷键.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian所有搜索的快捷键"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a26269aa45d5440",
+    "type": "split",
+    "children": [
+      {
+        "id": "de2194a668c321d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a82a2cf25de535b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "29386d080ac15202",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "解释搜索词 OR 搜索",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2bc54cd0b39ecdb7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "409c57c3e0a778e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9ddc4eb98ae43fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "403503355f9b7b62",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "知识管理体系/临时区/问题描述.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "问题描述 的反向链接列表"
+            }
+          },
+          {
+            "id": "aee16b9ca4cfffc7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "知识管理体系/临时区/问题描述.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "问题描述 的出链列表"
+            }
+          },
+          {
+            "id": "858154070ff9a07e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a2eef6526e22f1ae",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "a170bdca9da9e15e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "知识管理体系/工具性知识（允许遗忘，用中学）/用Obsidian，学习Obsidian/Obsidian所有搜索的快捷键.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Obsidian所有搜索的快捷键 的大纲"
+            }
+          },
+          {
+            "id": "d1a154fffaad221e",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 448.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "bases:创建新数据库": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "adb360cb5fa61042",
+  "lastOpenFiles": [
+    "Pasted image 20250826000410.png",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/用Obsidian，学习Obsidian/Obsidian所有搜索的快捷键.md",
+    "Pasted image 20250826000825.png",
+    "Pasted image 20250826000657.png",
+    "Pasted image 20250826000424.png",
+    "Pasted image 20250826000027.png",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/用Obsidian，学习Obsidian/卡片盒笔记法.md",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/用Obsidian，学习Obsidian/ReadMe.md",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/用Obsidian，学习Obsidian/标签、书签.md",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/test.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/能力/三种降低耦合性的设计模式（方法）：接口设计、依赖注入、观察者模式.md",
+    "知识管理体系/想法类/笔记的终极解决方法.md",
+    "external_resources/Road2Coding/README.md",
+    "知识管理体系/临时区/问题描述.md",
+    "知识管理体系/知识管理体系.canvas",
+    "知识管理体系/README.md",
+    "知识管理体系/想法类/我学习上的毛病根因--没热情.md",
+    "知识管理体系/想法类/我学习上的毛病--没热情(1).md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/能力/深度学习框架和工具.md",
+    "知识管理体系/日记和分析/日记/2025-8-15/逻辑提取.md",
+    "copilot-conversations/您好，你在不在？@20250726_051431.md",
+    "copilot-conversations/工作区内有几个文件夹？@20250818_120343.md",
+    "copilot-conversations/[[AllInOneAllInOne.canvas]]能看得懂这个么@20250801_133320.md",
+    "Excalidraw/Drawing 2025-08-07 13.08.38.excalidraw.md",
+    "知识管理体系/想法类/我学习上的毛病(1).md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/个人/内在/认知.canvas",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/能力/未命名.md"
+  ]
+}

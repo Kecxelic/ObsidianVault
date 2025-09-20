@@ -1,0 +1,7 @@
+{
+  "strictLineBreaks": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": true,
+  "attachmentFolderPath": "./image",
+  "newFileLocation": "current"
+}

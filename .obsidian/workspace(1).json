@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "02f0c595f0e5b033",
+    "type": "split",
+    "children": [
+      {
+        "id": "86accf5bba661b39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "338a32dd6fdb429b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "AllInOne/AllInOne.canvas",
+                "viewState": {
+                  "x": -7072.083341471832,
+                  "y": -2466.6965549273245,
+                  "zoom": -1.3709317584972793
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "AllInOne"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0eee5bbc3ae2ff96",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7ca7eaaa4cfdbb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36fe6b9eb2a74a62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9e6f7f5a541182be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2767723d3a6c03a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 383.5
+  },
+  "right": {
+    "id": "f20e4c0c1e14684c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6047ee1500ee714",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35f11020665e2db6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "工作汇报内容梳理​.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "工作汇报内容梳理​ 的反向链接列表"
+            }
+          },
+          {
+            "id": "f803dda94f657cf9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "工作汇报内容梳理​.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "工作汇报内容梳理​ 的出链列表"
+            }
+          },
+          {
+            "id": "cb4f2294a70f9f4a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3bcaf7634d1ed320",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "1f606b1cee5ef273",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "020710402a97139d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "483aecea3ce02d0e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AllInOne/AllInOne.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "AllInOne 的大纲"
+            }
+          },
+          {
+            "id": "12b772e825cc76cd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 489.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false,
+      "3d-graph:3D Graph": false
+    }
+  },
+  "active": "338a32dd6fdb429b",
+  "lastOpenFiles": [
+    "AllInOne/自我内核.md",
+    "AllInOne/AllInOne.canvas",
+    "copilot-conversations/[[AllInOneAllInOne.canvas]]能看得懂这个么@20250801_133320.md",
+    "AllInOne/AllInOne.canvas.baiduyun.uploading.cfg",
+    "实践方法论笔记/日记/2025-07-27.md.baiduyun.uploading.cfg",
+    "实践方法论笔记/日记/2025-07-27.md",
+    "2025-07-27.md.baiduyun.uploading.cfg",
+    "2025-07-27.md",
+    "AllInOne/自我内核.md.baiduyun.uploading.cfg",
+    "AllInOne.canvas.baiduyun.uploading.cfg",
+    "未命名",
+    "未命名.md.baiduyun.uploading.cfg",
+    "未命名.md",
+    "未命名.canvas.baiduyun.uploading.cfg",
+    "Excalidraw/Drawing 2025-07-17 10.53.57.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-17 10.54.04.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-17 10.54.15.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-17 10.54.15_0.excalidraw.md",
+    "实践方法论笔记/日记/2025-07-18.md",
+    "2025-07-19.md",
+    "实践方法论笔记/日记/2025-07-19.md",
+    "实践方法论笔记/撰写规范.md",
+    "Excalidraw/Drawing 2025-07-17 10.58.59.excalidraw.md",
+    "空地一体化生态固碳系统研发及应用/3.系统研发/技术路线/技术路线.md",
+    "Excalidraw/Drawing 2025-07-17 10.54.22.excalidraw.md",
+    "空地一体化生态固碳系统研发及应用/3.系统研发/技术难点/拟解决的关键技术问题.md",
+    "Excalidraw/Drawing 2025-07-15 00.46.48.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-15 00.46.47.excalidraw.md",
+    "Excalidraw",
+    "2025-07-15.md",
+    "copilot-conversations/你好@20250712_161652.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "空地一体化生态固碳系统研发及应用/3.系统研发/分为几部分",
+    "空地一体化生态固碳系统研发及应用/未命名.canvas",
+    "Pasted image 20250708184831.png"
+  ]
+}

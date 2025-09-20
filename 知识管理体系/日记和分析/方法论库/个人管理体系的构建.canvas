@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"4a90f61128ff31e8","type":"text","text":"bilibili.com/video/BV1zz4y1Y75E/?spm_id_from=333.337.search-card.all.click&vd_source=8beaab4fbc49d82cb81eb4bb79be69f4","x":-351,"y":-1918,"width":250,"height":60},
+		{"id":"02bd8a9cd74113fc","type":"file","file":"知识管理体系/日记和分析/方法论库/个人管理体系的构建.md","x":-399,"y":63,"width":319,"height":97},
+		{"id":"88abf23164333c92","type":"file","file":"知识管理体系/日记和分析/方法论库/个人管理体系的构建.md","x":60,"y":160,"width":400,"height":120},
+		{"id":"47b19181953d9d06","type":"file","file":"知识管理体系/日记和分析/方法论库/个人管理体系的构建.md","x":60,"y":-120,"width":400,"height":112},
+		{"id":"cafbac1496bcdca2","type":"text","text":"概念的描述方式","x":460,"y":-1240,"width":250,"height":60},
+		{"id":"b97e206548af7c12","type":"text","text":"过程性的程序语言描述","x":375,"y":-1060,"width":260,"height":60},
+		{"id":"03d9c064c8c0f60b","type":"text","text":"数学语言描述","x":124,"y":-1060,"width":210,"height":60},
+		{"id":"9c2e8968dccfd573","type":"text","text":"自然语言描述（模糊）","x":944,"y":-1060,"width":220,"height":60},
+		{"id":"9ded4f71f7401ff2","type":"text","text":"大模型的权重概率描述","x":664,"y":-1060,"width":250,"height":60},
+		{"id":"5c1b0a391800f252","type":"text","text":"你只要能够唯一描述他，不管是否难理解，就代表他已经被你摸清楚了","x":186,"y":-851,"width":319,"height":91},
+		{"id":"66cc909750a65675","type":"text","text":"概念本体\n\n不妨假设它一直存在，一直就在那边，只不过没有人发现。发现的过程就是给他清晰的唯一定义。定义的方式就是描述方式。","x":390,"y":-2020,"width":491,"height":137},
+		{"id":"8ed0b8fb36f04a08","type":"text","text":"建构论\n\n维特根斯坦：“概念的意义在于使用”，概念是人类语言游戏的产物，无绝对 “本体”","x":710,"y":-1780,"width":250,"height":180},
+		{"id":"7934eb2606dd40a1","type":"text","text":"实在论\n\n概念是独立于人类意识的 “客观存在”，等待被精准定义（如数学公理）","x":79,"y":-1750,"width":296,"height":180}
+	],
+	"edges":[
+		{"id":"932c2a4cf8f380e8","fromNode":"02bd8a9cd74113fc","fromSide":"right","toNode":"47b19181953d9d06","toSide":"left"},
+		{"id":"f42811703c19d55f","fromNode":"02bd8a9cd74113fc","fromSide":"right","toNode":"88abf23164333c92","toSide":"left"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

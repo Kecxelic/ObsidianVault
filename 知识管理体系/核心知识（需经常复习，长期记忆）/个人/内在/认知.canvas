@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"4e7615764e87a1c2","type":"file","file":"知识管理体系/核心知识（需经常复习，长期记忆）/个人/内在/ReadMe.md","x":-680,"y":-240,"width":380,"height":160},
+		{
+			"id":"c33d31c79aeaad79",
+			"type":"text",
+			"text":"我该怎么做？",
+			"styleAttributes":{},
+			"x":-80,
+			"y":-190,
+			"width":260,
+			"height":60
+		},
+		{"id":"dfa7439da8e743cf","type":"file","file":"知识管理体系/核心知识（需经常复习，长期记忆）/个人/内在/我的唯一前进目标就是弥补自己曾经没有得到的.md","x":-80,"y":-640,"width":320,"height":298}
+	],
+	"edges":[
+		{
+			"id":"02a56e1b9c285877",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4e7615764e87a1c2",
+			"fromSide":"right",
+			"toNode":"dfa7439da8e743cf",
+			"toSide":"left"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

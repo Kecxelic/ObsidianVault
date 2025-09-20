@@ -1,0 +1,33 @@
+# GitHub访问问题解决方案 - 手动执行命令
+# 请以管理员身份运行PowerShell后执行以下命令
+
+# 1. 备份当前hosts文件
+Copy-Item "C:\Windows\System32\drivers\etc\hosts" "C:\Windows\System32\drivers\etc\hosts.backup_$(Get-Date -Format 'yyyyMMdd_HHmmss')"
+
+# 2. 获取最新GitHub IP地址（使用Google DNS）
+nslookup github.com 8.8.8.8
+nslookup assets-cdn.github.com 8.8.8.8  
+nslookup github.global.ssl.fastly.net 8.8.8.8
+
+# 3. 更新hosts文件内容（根据上面查询的结果替换IP）
+# 先查看当前内容
+Get-Content "C:\Windows\System32\drivers\etc\hosts"
+
+# 4. 手动编辑或使用以下命令添加（替换为实际查询到的IP）
+$newEntries = @"
+# GitHub Start
+20.205.243.166 github.com
+20.205.243.166 api.github.com
+199.59.149.207 github.global.ssl.fastly.net
+185.199.108.153 assets-cdn.github.com
+# GitHub End
+"@
+
+Add-Content -Path "C:\Windows\System32\drivers\etc\hosts" -Value $newEntries
+
+# 5. 刷新DNS缓存
+ipconfig /flushdns
+
+# 6. 验证连接
+Test-NetConnection -ComputerName github.com -Port 443
+Invoke-WebRequest -Uri "https://github.com" -Method Head

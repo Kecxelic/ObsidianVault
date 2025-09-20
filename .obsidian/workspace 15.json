@@ -1,0 +1,335 @@
+{
+  "main": {
+    "id": "4f3e97dddb39d6a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "673a626eb62cc9de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33d9d2dac4e7be7e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "知识管理体系/日记和分析/日记/2025-8-15/2025-8-15~8-16.canvas",
+                "viewState": {
+                  "x": -272.90871359177777,
+                  "y": 5232.483974633175,
+                  "zoom": -2.7465821172967253e-8
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "2025-8-15~8-16"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20feb186ae8c49bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "de39f10f2549decf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60cb6a7a03c17605",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3a7c78f4a9340d81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "176fc08fa3046020",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 394.5041847229004
+  },
+  "right": {
+    "id": "aaa3dd14e8d2f6cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec0a4705b6c22e5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79bfd6e9f115e03e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "知识管理体系/日记和分析/日记/2025-8-15/2025-8-15~8-16.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2025-8-15~8-16 的反向链接列表"
+            }
+          },
+          {
+            "id": "d229b4e225364d64",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "202508072015.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "202508072015 的出链列表"
+            }
+          },
+          {
+            "id": "4caafbd9fd453be6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "fb68b109d1179fd5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "3b0a47212b1d37b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "202508072015.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "202508072015 的大纲"
+            }
+          },
+          {
+            "id": "f792d48dc54ee55d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "floating": {
+    "id": "006539b96f744cbd",
+    "type": "floating",
+    "children": [
+      {
+        "id": "da27aad1fc3fe8a3",
+        "type": "window",
+        "children": [
+          {
+            "id": "9d42ea10bebb6ead",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "362c1a6116a9bb8c",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://github.com/Developer-Mike/obsidian-advanced-canvas?tab=readme-ov-file#floating-edges-automatic-edge-side",
+                    "title": "GitHub - Developer-Mike/obsidian-advanced-canvas: ⚡ Supercharge your canvas experience! Graph view integration and unlimited styling options empower flowcharts, dynamic presentations, and interconnected knowledge.",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "GitHub - Developer-Mike/obsidian-advanced-canvas: ⚡ Supercharge your canvas experience! Graph view integration and unlimited styling options empower flowcharts, dynamic presentations, and interconnected knowledge."
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 370,
+        "y": 80,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": -1.5
+      },
+      {
+        "id": "71f86d8a6d3ae18a",
+        "type": "window",
+        "children": [
+          {
+            "id": "3d155258b9382598",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "de5f3405e6747dcb",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "知识管理体系/日记和分析/日记/2025-8-15/2025-8-15~8-16.canvas",
+                    "viewState": {
+                      "x": 1263.932914909497,
+                      "y": 2662.0710034834674,
+                      "zoom": -2.4858768710426737
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "2025-8-15~8-16"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 26,
+        "y": 19,
+        "width": 1025,
+        "height": 801,
+        "maximize": false,
+        "zoom": -1.5
+      }
+    ]
+  },
+  "active": "33d9d2dac4e7be7e",
+  "lastOpenFiles": [
+    "202508181201.md",
+    "202508180936.md",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/图表绘制心得.md",
+    "知识管理体系/日记和分析/日记/2025-8-15/2025-8-15~8-16.canvas",
+    "知识管理体系/日记和分析/日记/2025-8-15/ReadMe.canvas.canvas",
+    "image/1754676923129.png",
+    "知识管理体系/临时区/问题描述.md",
+    "public/favicon.svg",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/个人/内在/我的唯一前进目标就是弥补自己曾经没有得到的.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/个人/内在/认知.canvas",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/能力/职业规划（熟读背诵）.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/精力管理/时间管理框架.md",
+    "知识管理体系/日记和分析/日记/2025-8-15/设置面板.md",
+    "知识管理体系/日记和分析/日记/2025-8-15/避免偏移主线任务的方法.md",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/Obsidian canvas使用技巧.canvas",
+    "知识管理体系/日记和分析/日记/2025-8-15/逻辑提取.md",
+    "ReadMe.md",
+    "个人文档集.md",
+    "().md",
+    "202508080601.md",
+    "202508072015.md",
+    "202508131349.md",
+    "202508072020.md",
+    "202508072019.md",
+    "image/IMG_6743.jpeg",
+    "image/有道截屏翻译结果_1755300377043.png",
+    "image/Pasted image 20250816080944.png",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/test.md",
+    "image/Pasted image 20250816080743.png",
+    "image/有道截屏翻译结果_1755301662857.png",
+    "image/有道截屏翻译结果_1755301656768.png",
+    "image/有道截屏翻译结果_1755301644091.png",
+    "image/有道截屏翻译结果_1755301634397.png",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/git操作.md",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/soloIDE使用逻辑.canvas",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/Git版本控制.canvas",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/drawio绘图.canvas",
+    "知识管理体系/日记和分析/日记/2025-8-15/ReadMe.md",
+    "知识管理体系/日记和分析/日记/2025-07-18.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/个人/内在/ReadMe.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/个人/ReadMe.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/能力/ReadMe.md",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/精力管理/时间框架.canvas",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/个人/外在/大腿肌肉结构.canvas",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/个人/内在",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/个人/外在",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/能力/职业规划.canvas",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/用Obsidian，学习Obsidian/ReadMe.md",
+    "知识管理体系/工具性知识（允许遗忘，用中学）/用Obsidian，学习Obsidian",
+    "知识管理体系/日记和分析/日记/2025-8-15",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/能力",
+    "知识管理体系/核心知识（需经常复习，长期记忆）/个人",
+    "vite.config.ts",
+    "tsconfig.json",
+    "tailwind.config.js",
+    "src/pages/Home.tsx"
+  ]
+}

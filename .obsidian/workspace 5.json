@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "4f3e97dddb39d6a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "77597d59a4773d28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de1127e04cecc829",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20feb186ae8c49bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "de39f10f2549decf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60cb6a7a03c17605",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3a7c78f4a9340d81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "176fc08fa3046020",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 473.51240158081055
+  },
+  "right": {
+    "id": "aaa3dd14e8d2f6cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec0a4705b6c22e5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79bfd6e9f115e03e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "202508072015.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "202508072015 的反向链接列表"
+            }
+          },
+          {
+            "id": "d229b4e225364d64",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "202508072015.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "202508072015 的出链列表"
+            }
+          },
+          {
+            "id": "4caafbd9fd453be6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "fb68b109d1179fd5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "3b0a47212b1d37b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "202508072015.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "202508072015 的大纲"
+            }
+          },
+          {
+            "id": "f792d48dc54ee55d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false,
+      "3d-graph:3D Graph": false,
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "de1127e04cecc829",
+  "lastOpenFiles": [
+    "知识管理体系/问题解决方案/如何绘制科研图表？.canvas",
+    "知识管理体系/问题解决方案/如何绘制科研图表？ 2.canvas",
+    "知识管理体系/问题解决方案/图表生成提示词.md",
+    "Windows-MCP/venv/Lib/site-packages/numpy/lib/__pycache__/_datasource.cpython-313.pyc",
+    "Windows-MCP/venv/Lib/site-packages/numpy/lib/__pycache__/_twodim_base_impl.cpython-313.pyc",
+    "Windows-MCP/venv/Lib/site-packages/numpy/lib/__pycache__/_iotools.cpython-313.pyc",
+    "Windows-MCP/venv/Lib/site-packages/numpy/matrixlib/__pycache__/defmatrix.cpython-313.pyc",
+    "Windows-MCP/venv/Lib/site-packages/numpy/random/tests/test_extending(1).py.baiduyun.uploading(1).cfg",
+    "Windows-MCP/venv/Lib/site-packages/numpy/lib/__pycache__/_polynomial_impl.cpython-313.pyc",
+    "Windows-MCP/venv/Lib/site-packages/numpy/lib/__pycache__/_nanfunctions_impl.cpython-313.pyc",
+    "Windows-MCP/venv/Lib/site-packages/numpy/lib/__pycache__/_histograms_impl.cpython-313.pyc",
+    "Windows-MCP/venv/Lib/site-packages/numpy/lib/__pycache__/_shape_base_impl.cpython-313.pyc",
+    "Windows-MCP/venv/Lib/site-packages/numpy/lib/__pycache__/_arraysetops_impl.cpython-313.pyc",
+    "知识管理体系/问题解决方案/如何绘制科研图表？(1).canvas",
+    "image/Pasted image 20250810092357.png",
+    "知识管理体系/问题解决方案/机制架构图绘制方案.md",
+    "知识管理体系/问题解决方案/Drawing 2025-08-08 21.48.54.excalidraw.md",
+    "知识管理体系/问题解决方案/问题描述.md",
+    "知识管理体系/知识管理体系.canvas",
+    "ReadMe.md",
+    "知识管理体系/README.md",
+    "知识管理体系/实践方法论笔记/撰写规范.md",
+    "知识管理体系/实践方法论笔记/方法论库/测试.md",
+    "知识管理体系/实践方法论笔记/方法论库/ReadMe.md",
+    "Windows-MCP/CONTRIBUTING.md",
+    "image/system_architecture.svg",
+    "image/个人文档集/1754676923129.png",
+    "知识管理体系/问题解决方案/通用机制架构图绘制方案.md",
+    "知识管理体系/问题解决方案/机制架构图的绘制流程.md",
+    "知识管理体系/问题解决方案/机制架构图的绘制.md",
+    "知识管理体系/问题解决方案/可采用的图表类型.md",
+    "知识管理体系/问题解决方案/科研绘图可分为哪几个种类？.md",
+    "202508080605.md",
+    "202508080601.md",
+    "202508072020.md",
+    "202508072019.md",
+    "202508072015.md"
+  ]
+}
