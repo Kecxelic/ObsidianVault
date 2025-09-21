@@ -4,45 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "37b6d5d591aaf698",
+        "id": "47bf1ee6d8b4e8d0",
         "type": "tabs",
         "children": [
           {
-            "id": "9e11d4527a38c978",
+            "id": "3baf560cdd797905",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/0.如何使用gitee对仓库进行同步.canvas",
-                "viewState": {
-                  "x": 891.035637157475,
-                  "y": -411.01411653679355,
-                  "zoom": -1.3336854601445343
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "0.如何使用gitee对仓库进行同步"
-            }
-          },
-          {
-            "id": "8a220c613695eace",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/SourceTree 基本操作.canvas",
-                "viewState": {
-                  "x": -476.4847004201935,
-                  "y": -1581.8857877471526,
-                  "zoom": -0.30429032038780895
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "SourceTree 基本操作"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,8 +216,9 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "36fe6b9eb2a74a62",
+  "active": "3baf560cdd797905",
   "lastOpenFiles": [
+    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/SourceTree 基本操作.canvas",
     "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/image/Pasted image 20250920184655.png",
     "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/image/14191727_670cfdc738bc184085.webp",
     "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/image/14191727_670cfdc76568720494.webp",
@@ -251,7 +226,6 @@
     "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/0.如何使用gitee对仓库进行同步.canvas",
     "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/如何从Gitee克隆一个私人仓库到本地？.md",
     "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/用做题的方式迅速学习任何知识.md",
-    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/SourceTree 基本操作.canvas",
     "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/SSH密钥生成和Gitee公钥配置全流程（Github通用）.md",
     "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/image/Pasted image 20250920163014.png",
     "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/Https方式克隆.md",
@@ -297,7 +271,6 @@
     "知识管理体系/工具性知识（允许遗忘，用中学）/系统工具",
     "知识管理体系/工具性知识（允许遗忘，用中学）/文档工具",
     "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/src/data-structures/trie/images/trie.jpg",
-    "知识管理体系/核心知识（需经常复习，长期记忆）/项目/Algorithm/src/data-structures/stack/images/stack.jpg",
     "知识管理体系/核心知识（需经常复习，长期记忆）/精力管理/时间框架.canvas",
     "知识管理体系/核心知识（需经常复习，长期记忆）/个人/外在/大腿肌肉结构.canvas"
   ]
