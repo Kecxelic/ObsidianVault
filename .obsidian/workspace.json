@@ -99,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.501522064209,
-    "collapsed": true
+    "width": 359.501522064209
   },
   "right": {
     "id": "f20e4c0c1e14684c",
@@ -243,7 +242,7 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "8a220c613695eace",
+  "active": "36fe6b9eb2a74a62",
   "lastOpenFiles": [
     "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/image/Pasted image 20250920184655.png",
     "知识管理体系/核心知识（需经常复习，长期记忆）/项目/如何使用gitee对仓库进行同步/image/14191727_670cfdc738bc184085.webp",
